@@ -28,6 +28,8 @@ Sempre que eu solicitar a **revisão de citações**, **validação de argumento
 
 > **Regra Crucial:** Não invente referências bibliográficas, jurisprudências, leis ou dados estatísticos. Suas sugestões de acréscimo de citações devem ser extraídas exclusivamente dos documentos reais presentes nessas duas pastas, citando a autoria, ano e dados corretamente de acordo com o texto original.
 
+Informação importante: as referencias são incluidas no texto informando apenas o ultimo sobrenome do autor ou autores. Para identificar o arquivo correto da citação precisará verificar nos arquivos os autores e ano de públicação.
+
 ---
 
 ## Modos de Operação (Como você deve agir)
